@@ -7,10 +7,10 @@ import { filterPodCastModel } from '../models/filter-podcast-model';
 
 export const getListEpisodes = async (req : IncomingMessage, res: ServerResponse) => {
 
-    const content = await serviceListEpisodes();
+    const content: filterPodCastModel = await serviceListEpisodes();
 
-    res.writeHead(StatusCode.OK, {"Content-Type": "application/json"});
-    res.end(JSON.stringify(content));
+    res.writeHead(content.statusCode, {"Content-Type": "application/json"});
+    res.end(JSON.stringify(content.body));
 };
 
 
