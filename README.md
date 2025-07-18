@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=120&section=header&text=🎧%20Gerenciador%20de%20Podcast&fontColor=FFFFFF&fontSize=35&fontAlignY=35" />
 
-## 🎙️ Projeto: Gerenciador de Podcast
+🎙️ Project: Podcast Manage
 
-API em Node.js + TypeScript para filtrar e gerenciar episódios de podcasts como **Flow**, **Podpah**, **Inteligência Ltda** e muito mais!
+A Node.js + TypeScript API to filter and manage podcast episodes like Flow, Podpah, and many more!
 
-Acesse episódios por nome, com respostas rápidas e organizadas. Ideal para apps, dashboards ou sistemas de recomendação.
+Access episodes by name, with fast and organized responses. Perfect for apps, dashboards, or recommendation systems.
 
 ---
 
-## 📚 Tecnologias Utilizadas
+📚 Technologies Used
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 10px;">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -21,17 +21,17 @@ Acesse episódios por nome, com respostas rápidas e organizadas. Ideal para app
 
 ---
 
-## 🚀 Funcionalidades
+🚀 Features
 
-🎯 Recebe uma lista de episódios no formato JSON  
-🔍 Permite buscas por nome do podcast (ex: "Flow", "Podpah")  
-📥 Retorna apenas os episódios correspondentes à busca  
-🧩 Flexível e fácil de integrar com qualquer sistema  
-💡 Código modular e pronto para escalar
+🎯 Accepts a list of episodes in JSON format
+🔍 Allows searching by podcast name (e.g., "Flow", "Podpah")
+📥 Returns only episodes matching the search
+🧩 Flexible and easy to integrate with any system
+💡 Modular code and ready to scale
 
 ---
 
-## 💡 Exemplo de Uso
+💡 Example Usage
 
 [
 {
