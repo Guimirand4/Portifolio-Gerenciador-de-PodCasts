@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=120&section=header&text=🎧%20Gerenciador%20de%20Podcast&fontColor=FFFFFF&fontSize=35&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=120&section=header&text=🎧%20Podcast%20Manager&fontColor=FFFFFF&fontSize=35&fontAlignY=35" />
 
-🎙️ Project: Podcast Manage
+🎙️ Project: Podcast Manager
 
 A Node.js + TypeScript API to filter and manage podcast episodes like Flow, Podpah, and many more!
 
